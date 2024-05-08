@@ -2,7 +2,8 @@ CREATE DATABASE crud_libros;
 
 use crud_libros;
 
-CREATE TABLE Libros (
+CREATE TABLE Libro (
+    id INT(11) PRIMARY KEY AUTO_INCREMENT,
     isbn VARCHAR(20) PRIMARY KEY,
     Titulo VARCHAR(255),
     Descripcion TEXT,
@@ -11,5 +12,3 @@ CREATE TABLE Libros (
     Precio DECIMAL(10, 2),
     Enlace VARCHAR(255)
 );
-
-DESCRIBE libros;
