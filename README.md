@@ -19,7 +19,7 @@
 - crear un usuario y contraseña y darle permiso para acceder a la base de datos crud_libros
     admin/malaga2324
 
-- modiifcar en el fichero db.php el usuario y contraseña creados
+- modificar en el fichero db.php el usuario y contraseña creados
 
 <?php
 session_start();
