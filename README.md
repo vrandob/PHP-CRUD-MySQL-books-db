@@ -1,5 +1,5 @@
 # Screenshot
-![](docs/index screenshot.png)
+![](docs/screenshot.png)
 
 # Entorno
 - servidor web
