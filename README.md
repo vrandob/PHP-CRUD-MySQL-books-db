@@ -8,7 +8,7 @@
 
 # Instalación
 - descargar el archivo zip de Github:
-    https://github.com/paco-portada/crud
+    https://github.com/vrandob/PHP-CRUD-MySQL-books-db
 
 - descomprimir el archivo zip en la carpeta de documentos del servidor web:
     /var/www/html (en Linux)
